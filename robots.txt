@@ -1,0 +1,11 @@
+# robots.txt for Portfolio Website
+
+User-agent: *
+Allow: /
+
+# Disallow PDF downloads from being indexed (optional - remove if you want PDFs indexed)
+# Disallow: /*.pdf$
+
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Note: Replace 'yourdomain.com' with your actual domain after deployment
